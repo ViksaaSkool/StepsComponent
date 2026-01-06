@@ -12,7 +12,7 @@ The detailed step-by-step implementation and the idea behind it can be read in [
 
 ## Demo
 
-<video src="pics/demo_video.mp4" controls width="600"></video>
+<video src="https://github.com/ViksaaSkool/StepsComponent/raw/refs/heads/master/pics/demo_video.mp4" controls width="600"></video>
 
 
 ## License
