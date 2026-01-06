@@ -12,8 +12,7 @@ The detailed step-by-step implementation and the idea behind it can be read in [
 
 ## Demo
 
-<video src="https://github.com/ViksaaSkool/StepsComponent/raw/refs/heads/master/pics/demo_video.mp4" controls width="600"></video>
-
+https://github.com/user-attachments/assets/052793d7-dc10-4d9c-8b20-175f3c490b4d
 
 ## License
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
