@@ -5,8 +5,7 @@
 ## About
 
 Demo implementation of steps counting widget using Compose,
-Lottie library and motion Motion Transition event tracker in order to make
-give the animation a real time effect.
+Lottie library and motion Motion Transition event tracker in order to give the animation a real time effect.
 
 The detailed step-by-step implementation and the idea behind it can be read in [this blog post](https://is.gd/GCF5yH). 
 
