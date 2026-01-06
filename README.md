@@ -1,4 +1,4 @@
-# Steps App
+# Steps Component
 
 <img alt="logo" height="220" src="pics/logo.png" width="220"/>
 
